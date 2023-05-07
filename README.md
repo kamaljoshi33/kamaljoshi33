@@ -1,4 +1,4 @@
--  Hi, I’m kamaljoshi
+-  Hi, I’m kamal Joshi
 -  I’m interested in web development
 -  I’m currently learning js and java
 -  I’m looking to collaborate on ...
