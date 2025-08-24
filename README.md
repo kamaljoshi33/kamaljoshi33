@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Joshi</h1>
-<h3 align="center">🚀 Full Stack Developer | B.Tech 3rd Year Student 🎓 Currently pursuing B.Tech (3rd year) 💻 1+ year of hands-on experience in full-stack development 📦 Worked on 13+ projects for a compiler-based company 🌐 Passionate about building scalable web applications and learning new technologies</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Tech 3rd Year Student 🎓 Currently pursuing B.Tech (3rd year) 💻 1+ year of hands-on experience in full-stack development 📦 Worked on 6+ projects for a compiler-based company 🌐 Passionate about building scalable web applications and learning new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaljoshi33&label=Profile%20views&color=0e75b6&style=flat" alt="kamaljoshi33" /> </p>
 
